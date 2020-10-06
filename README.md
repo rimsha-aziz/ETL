@@ -41,6 +41,7 @@ CSV file
 	as which energy source is being consumed the most. This could provide insight into a cause for high CO2 emissions levels and a lack of use in renewable sources. Having
 	two separate tables is beneficial because it still allows us to see a larger scope. For example, if there were any countries that existed in one table but not the
 	other. 
+	
 ##Challenges:
 	We were able to load the data into SQL, however we had challenges performing queries on the tables such as joining. The data would be loaded into the tables however,
 	the schema would change from the originally outlined schema. This happened because all the table headers, when imported, were strings with quotation marks around them.
