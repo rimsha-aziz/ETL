@@ -46,6 +46,7 @@ CSV file
 	the schema would change from the originally outlined schema. This happened because all the table headers, when imported, were strings with quotation marks around them.
 	To accommodate for this issue and others when importing, including special characters. We had to rename all the column headers to lowercase and remove all special
 	characters. 
+	
 
 
 
